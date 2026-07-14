@@ -1,0 +1,9 @@
+# libdelta
+
+C bindings for ContinuityVM delta factor request. This software needs [libentropy](https://git.invi.group/~nakamura/libentropy) and [ContinuityVM FFI](https://git.invi.group/~nakamura/ccvm).
+
+Makefile is included for building.
+
+## License
+
+Licensed under MIT License by INVI Research Group (A. Nakamura, Y. Fukuda, et al.).
